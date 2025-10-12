@@ -1,1 +1,3 @@
-### Ini adalah project sampel untuk web kelas menggunakan PHP
+# Web-Class
+
+### Ini adalah project web kelas menggunakan bahasa PHP
